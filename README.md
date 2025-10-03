@@ -177,7 +177,7 @@ The following metrics were used to assess model performance:
 
 **Banana_Set_3**
 
-![Banana Sample](data/plots/plot_2.jpg)
+![Banana Sample](data/plots/plot_3.jpg)
 
 ---
 
