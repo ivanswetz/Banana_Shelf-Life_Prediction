@@ -181,4 +181,11 @@ The following metrics were used to assess model performance:
 
 ---
 
+## 🔎 Conclusion
 
+This project demonstrates how computer vision and machine learning can be applied to solve a simple yet impactful real-world challenge: predicting banana shelf-life. By focusing on metrics such as **MAE, RMSE, and R²**, the work highlights not only the technical accuracy of the models but also their **practical value** in reducing food waste and improving decision-making for both households and retailers. While the model already shows promising results, it also opens opportunities for future improvements through larger datasets, more advanced architectures, and real-world deployment scenarios.
+
+---
+
+**Created by Ivan Shvets**  
+GitHub: [ivanswetz](https://github.com/ivanswetz)
